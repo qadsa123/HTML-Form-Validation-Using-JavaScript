@@ -1,5 +1,4 @@
 # HTML-Form-Validation-Using-JavaScript
-Project Name:HTML Form Validation Using JavaScript
-Features: SignIn form includes two fields, username and password.
-          SignUp form contains Name, DOB, Gender, Address, Office contact, personal contact
+<h3>Project Name:</h3><br>HTML Form Validation Using JavaScript<br>
+<h3>Features:</h3> <br>SignIn form includes two fields, username and password.
           
